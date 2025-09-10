@@ -18,7 +18,7 @@ public class biggest{
             System.out.println(num3);
         }
         else {
-            System.out.println("Tie.");
+            System.out.println("Tie..");
         }
 
     }

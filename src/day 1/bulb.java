@@ -6,7 +6,7 @@ public class bulb{
         int num=s.nextInt();
         if(num%2==0)
         {
-            System.out.println("Ligth is On.");
+            System.out.println("Ligth is On..");
         }
         else {
             System.out.println("Ligth is Off");

@@ -5,7 +5,7 @@ public class calendar{
         int year=s.nextInt();
         if(year%400==0||(year%100!=0 && year%4==0))
         {
-            System.out.println("Its a Leap Year.");
+            System.out.println("Its a Leap Year..");
         }
         else {
             System.out.println("Its not a Leap Year");

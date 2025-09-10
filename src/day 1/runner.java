@@ -7,7 +7,7 @@ public class runner{
         int b=s.nextInt();
         if(a>b)
         {
-            System.out.println("Varun is Faster.");
+            System.out.println("Varun is Faster..");
         }
         else if(b>a)
         {

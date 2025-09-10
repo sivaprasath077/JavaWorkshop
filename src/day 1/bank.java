@@ -5,7 +5,7 @@ public class bank{
         int num=s.nextInt();
         if(num==0)
         {
-            System.out.println("ZeroBalance.");
+            System.out.println("ZeroBalance..");
         }
         else if(num>0)
         {
