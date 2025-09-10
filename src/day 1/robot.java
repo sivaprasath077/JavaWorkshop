@@ -2,22 +2,22 @@ import java.util.*;
 public class robot {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        int num=s.nextInt();
+        int num1=s.nextInt();
         int a=s.nextInt();
         int b=s.nextInt();
-        if(num==1)
+        if(num1==1)
         {
             System.out.println(a+b);
         }
-        else if(num==2)
+        else if(num1==2)
         {
             System.out.println(a-b);
         }
-        else if(num==3)
+        else if(num1==3)
         {
             System.out.println(a*b);
         }
-        else if(num==4)
+        else if(num1==4)
         {
             System.out.println(a/b);
         }

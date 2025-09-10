@@ -9,7 +9,7 @@ public class report{
         }
         else if(num>=75 && num<90)
         {
-            System.out.println("B");
+            System.out.println("B.");
         }
         else if(num>=50 && num<75)
         {
