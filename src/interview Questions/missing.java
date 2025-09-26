@@ -13,7 +13,7 @@ public class missing{
         {
             if(j+1!=num[j])
             {
-                System.out.println(j+1);
+                System.out.println(j+1 );
                 return;
             }
         }

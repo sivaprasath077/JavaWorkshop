@@ -15,6 +15,6 @@ public class sort{
                 }
             }
         }
-        System.out.println(Arrays.toString(a));
+        System.out.println(Arrays.toString(a) );
     }
 }

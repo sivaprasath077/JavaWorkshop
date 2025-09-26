@@ -17,6 +17,6 @@ public class equal{
                }
            }
        }
-       System.out.print(count);
+       System.out.print(count );
     }
 }

@@ -15,7 +15,7 @@ public class maxsub{
             }
             max=Math.max(max,currsum);
         }
-        System.out.print(max);
+        System.out.print(max );
 
 
     }
